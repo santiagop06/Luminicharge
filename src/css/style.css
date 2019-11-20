@@ -1,0 +1,57 @@
+.wrapper{
+    height: 100%;
+}
+.vertical-align{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.custom-navbar {
+    height: 15vh !important;
+    background-color: #333333 !important;
+    font-size: 1.8vw;   
+}
+.custom-navbar .nav-link{
+    color: white !important;
+}
+
+#main-data {
+    height: 85vh !important;
+}
+
+.modal-content{
+    background-color: #858585 !important;
+    color: white;
+}
+
+.fondo {
+    background-color: #333333;
+    color: aliceblue;
+    height: 100vh;
+}
+#login{
+    width: 100%;
+}
+#login-container{
+    width: 30vw;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+.material-icons.mainLogo {
+    font-size: 7vw;
+    color: aqua;
+    display: block;
+    margin: auto;
+}
+
+#card{
+    height: auto;
+    background-color: #858585;
+    border-radius: 15px;
+    margin-bottom: 1rem;
+    color: white;
+    font-size: 2vw;
+}
